@@ -1,6 +1,5 @@
 # Optimizarea-plasamentului-unui-robot-industrial-pentru-paletizarea-selectiva-de-pachete.
-
-ON GOING PROJECT
+# ONGOING PROJECT
 Se cere realizarea unui sistem compus dintr-o banda transportoare pe care vin pachete primite de curier
 pentru a fi livrate. Aceste pachete au o anumita adresa (citita de un sistem de vedere artificiala si
 trimisa controllerului robot pe interfața de rețea). In funcție de adresa specificata exista 10 posibile

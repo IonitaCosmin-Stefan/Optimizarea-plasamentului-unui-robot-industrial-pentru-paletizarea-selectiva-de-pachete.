@@ -1,0 +1,1 @@
+# Optimizarea-plasamentului-unui-robot-industrial-pentru-paletizarea-selectiva-de-pachete.
